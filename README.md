@@ -21,7 +21,7 @@ cp .env.example .env  # Add your OpenAI API key
 streamlit run app.py
 ```
 
-## 📦 Requirements
+## 📦 Requirement
 
 - Python 3.7+
 - OpenAI API key
