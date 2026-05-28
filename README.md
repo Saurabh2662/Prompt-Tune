@@ -28,4 +28,4 @@ streamlit run app.py
 
 ## 📄 License
 
-M
+MIT
